@@ -10,7 +10,7 @@ function App() {
       <p>🚀 Pushed via Terminal (git push) — testing the full command-line workflow!</p>
       <p>I am pushing the changes my self</p>
       <p>testing this with another editor</p>
-      <h3>this is heading i am testing<h3/>
+      <h3>this is heading i am testing</h3>
     </div>
   );
 }
